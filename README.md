@@ -1,5 +1,8 @@
 # Netflix-Clone
 
+# Landing Page:
+![image](https://user-images.githubusercontent.com/51323586/133648569-a6bb0389-b427-4487-94f9-3cc7721db899.png)
+
 # Project Description:
 
   This is a frontend clone of Netflix website built using Html, CSS and JavaScript. It’s not a 
@@ -7,14 +10,16 @@
   of Netflix with my own design touch, showing my abilities in Html/CSS and JavaScript to 
   build something advanced like Netflix. It contains the home page or the landing page, signin page, sign-up page, browse page, and movie player.
 
+# Sign-Up Page:
+![image](https://user-images.githubusercontent.com/51323586/133648779-ab0ccdcb-2e30-4b78-af8b-a70ba370a843.png)
 
-# Approach:
-  My approach in building each page of this project was simple first I created basic structure 
-  of webpage using html then designed the page using CSS elements then if required used 
-  JavaScript to make the webpage responsive to clicks or on provided input. The sequence of 
-  development of different pages of this project are like this first I was the landing page/ 
-  home page then sign-in page and sign-up page at in the was browse page.
-  
+# Sign-In Page:
+![image](https://user-images.githubusercontent.com/51323586/133648926-07730d32-526e-41f5-9f8f-054ef2265b75.png)
+
+# Browse Page:
+![image](https://user-images.githubusercontent.com/51323586/133649051-735f9223-e2c7-4111-b73b-5ba782d498ca.png)
+
+
   
 # Tech-Stack Used:
 
@@ -28,4 +33,13 @@
     
    Visual Studio Code: Used to build, write and deploy my project locally .
   
- LinK:- https://netflix-clone-coral.vercel.app/
+
+# Approach:
+  My approach in building each page of this project was simple first I created basic structure 
+  of webpage using html then designed the page using CSS elements then if required used 
+  JavaScript to make the webpage responsive to clicks or on provided input. The sequence of 
+  development of different pages of this project are like this first I was the landing page/ 
+  home page then sign-in page and sign-up page at in the was browse page.
+  
+
+# LinK:- https://netflix-clone-coral.vercel.app/
