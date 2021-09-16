@@ -1,14 +1,13 @@
 # Netflix-Clone
 
-# Landing Page:
-![image](https://user-images.githubusercontent.com/51323586/133648569-a6bb0389-b427-4487-94f9-3cc7721db899.png)
-
-# Project Description:
-
   This is a frontend clone of Netflix website built using Html, CSS and JavaScript. It’s not a 
   replica of original Netflix website, and it doesn’t have all the features. It’s a similar version 
   of Netflix with my own design touch, showing my abilities in Html/CSS and JavaScript to 
-  build something advanced like Netflix. It contains the home page or the landing page, signin page, sign-up page, browse page, and movie player.
+  build something advanced like Netflix. It contains the home page or the landing page, signin page, 
+  sign-up page, browse page, and movie player.
+
+# Landing Page:
+![image](https://user-images.githubusercontent.com/51323586/133648569-a6bb0389-b427-4487-94f9-3cc7721db899.png)
 
 # Sign-Up Page:
 ![image](https://user-images.githubusercontent.com/51323586/133648779-ab0ccdcb-2e30-4b78-af8b-a70ba370a843.png)
