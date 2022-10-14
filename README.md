@@ -42,3 +42,5 @@
   
 
 # LinK:- https://netflix-clone-coral.vercel.app/
+
+> This app was build for studying purposes only.
