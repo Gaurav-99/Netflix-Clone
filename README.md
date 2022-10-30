@@ -41,6 +41,6 @@
   home page then sign-in page and sign-up page at in the was browse page.
   
 
-# LinK:- https://netflix-clone-gaurav-99.vercel.app/
+# LinK:- https://cloned-netflix-website.herokuapp.com/
 
 > This app was build for studying purposes only.
